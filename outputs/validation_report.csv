@@ -1,0 +1,3 @@
+source_file,source_row,issue
+country_c.xlsx,2,Enrolment totals inconsistent
+country_d.xlsx,2,Counts must be nonnegative integers
